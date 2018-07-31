@@ -1,7 +1,7 @@
 package codegen
 
 import (
-	"github.com/thesyncim/exposed/expose/codegen/protobuf"
+	"github.com/thesyncim/expose/codegen/protobuf"
 	"k8s.io/gengo/args"
 	"path/filepath"
 	"strings"

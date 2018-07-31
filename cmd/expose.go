@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/thesyncim/exposed/expose/codegen"
+	"github.com/thesyncim/expose/codegen"
 	"log"
 )
 
